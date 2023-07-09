@@ -1,0 +1,501 @@
+City,zipcode,County,State
+Benge,99105,Adams,Washington
+Ritzville,99169,Adams,Washington
+Lind,99341,Adams,Washington
+Othello,99344,Adams,Washington
+Washtucna,99371,Adams,Washington
+Anatone,99401,Asotin,Washington
+Asotin,99402,Asotin,Washington
+Clarkston,99403,Asotin,Washington
+Benton City,99320,Benton,Washington
+Kennewick,99336,Benton,Washington
+Kennewick,99337,Benton,Washington
+Kennewick,99338,Benton,Washington
+Paterson,99345,Benton,Washington
+Plymouth,99346,Benton,Washington
+Prosser,99350,Benton,Washington
+Richland,99352,Benton,Washington
+West Richland,99353,Benton,Washington
+Richland,99354,Benton,Washington
+Wenatchee,98801,Chelan,Washington
+Wenatchee,98807,Chelan,Washington
+Ardenvoir,98811,Chelan,Washington
+Cashmere,98815,Chelan,Washington
+Chelan,98816,Chelan,Washington
+Chelan Falls,98817,Chelan,Washington
+Dryden,98821,Chelan,Washington
+Entiat,98822,Chelan,Washington
+Leavenworth,98826,Chelan,Washington
+Malaga,98828,Chelan,Washington
+Manson,98831,Chelan,Washington
+Monitor,98836,Chelan,Washington
+Peshastin,98847,Chelan,Washington
+Stehekin,98852,Chelan,Washington
+Beaver,98305,Clallam,Washington
+Carlsborg,98324,Clallam,Washington
+Clallam Bay,98326,Clallam,Washington
+Joyce,98343,Clallam,Washington
+La Push,98350,Clallam,Washington
+Neah Bay,98357,Clallam,Washington
+Port Angeles,98362,Clallam,Washington
+Port Angeles,98363,Clallam,Washington
+Sekiu,98381,Clallam,Washington
+Sequim,98382,Clallam,Washington
+Amboy,98601,Clark,Washington
+Battle Ground,98604,Clark,Washington
+Brush Prairie,98606,Clark,Washington
+Camas,98607,Clark,Washington
+Heisson,98622,Clark,Washington
+La Center,98629,Clark,Washington
+Ridgefield,98642,Clark,Washington
+Vancouver,98660,Clark,Washington
+Vancouver,98661,Clark,Washington
+Vancouver,98662,Clark,Washington
+Vancouver,98663,Clark,Washington
+Vancouver,98664,Clark,Washington
+Vancouver,98665,Clark,Washington
+Vancouver,98666,Clark,Washington
+Vancouver,98667,Clark,Washington
+Vancouver,98668,Clark,Washington
+Washougal,98671,Clark,Washington
+Woodland,98674,Clark,Washington
+Yacolt,98675,Clark,Washington
+Vancouver,98682,Clark,Washington
+Vancouver,98683,Clark,Washington
+Vancouver,98684,Clark,Washington
+Vancouver,98685,Clark,Washington
+Vancouver,98686,Clark,Washington
+Vancouver,98687,Clark,Washington
+Dayton,99328,Columbia,Washington
+Starbuck,99359,Columbia,Washington
+Ryderwood,98581,Cowlitz,Washington
+Ariel,98603,Cowlitz,Washington
+Carrolls,98609,Cowlitz,Washington
+Castle Rock,98611,Cowlitz,Washington
+Cougar,98616,Cowlitz,Washington
+Kalama,98625,Cowlitz,Washington
+Kelso,98626,Cowlitz,Washington
+Longview,98632,Cowlitz,Washington
+Silverlake,98645,Cowlitz,Washington
+Toutle,98649,Cowlitz,Washington
+East Wenatchee,98802,Douglas,Washington
+Bridgeport,98813,Douglas,Washington
+Mansfield,98830,Douglas,Washington
+Orondo,98843,Douglas,Washington
+Palisades,98845,Douglas,Washington
+Rock Island,98850,Douglas,Washington
+Waterville,98858,Douglas,Washington
+Boyds,99107,Ferry,Washington
+Curlew,99118,Ferry,Washington
+Danville,99121,Ferry,Washington
+Inchelium,99138,Ferry,Washington
+Keller,99140,Ferry,Washington
+Laurier,99146,Ferry,Washington
+Malo,99150,Ferry,Washington
+Orient,99160,Ferry,Washington
+Republic,99166,Ferry,Washington
+Pasco,99301,Franklin,Washington
+Pasco,99302,Franklin,Washington
+Connell,99326,Franklin,Washington
+Eltopia,99330,Franklin,Washington
+Kahlotus,99335,Franklin,Washington
+Mesa,99343,Franklin,Washington
+Pomeroy,99347,Garfield,Washington
+Ephrata,98823,Grant,Washington
+George,98824,Grant,Washington
+Marlin,98832,Grant,Washington
+Moses Lake,98837,Grant,Washington
+Quincy,98848,Grant,Washington
+Soap Lake,98851,Grant,Washington
+Stratford,98853,Grant,Washington
+Warden,98857,Grant,Washington
+Wilson Creek,98860,Grant,Washington
+Coulee City,99115,Grant,Washington
+Electric City,99123,Grant,Washington
+Grand Coulee,99133,Grant,Washington
+Hartline,99135,Grant,Washington
+Beverly,99321,Grant,Washington
+Mattawa,99349,Grant,Washington
+Royal City,99357,Grant,Washington
+Aberdeen,98520,Grays Harbor,Washington
+Amanda Park,98526,Grays Harbor,Washington
+Copalis Beach,98535,Grays Harbor,Washington
+Copalis Crossing,98536,Grays Harbor,Washington
+Cosmopolis,98537,Grays Harbor,Washington
+Elma,98541,Grays Harbor,Washington
+Hoquiam,98550,Grays Harbor,Washington
+Humptulips,98552,Grays Harbor,Washington
+Mccleary,98557,Grays Harbor,Washington
+Malone,98559,Grays Harbor,Washington
+Moclips,98562,Grays Harbor,Washington
+Montesano,98563,Grays Harbor,Washington
+Neilton,98566,Grays Harbor,Washington
+Oakville,98568,Grays Harbor,Washington
+Ocean Shores,98569,Grays Harbor,Washington
+Pacific Beach,98571,Grays Harbor,Washington
+Quinault,98575,Grays Harbor,Washington
+Satsop,98583,Grays Harbor,Washington
+Taholah,98587,Grays Harbor,Washington
+Westport,98595,Grays Harbor,Washington
+Clinton,98236,Island,Washington
+Coupeville,98239,Island,Washington
+Freeland,98249,Island,Washington
+Greenbank,98253,Island,Washington
+Langley,98260,Island,Washington
+Oak Harbor,98277,Island,Washington
+Oak Harbor,98278,Island,Washington
+Camano Island,98282,Island,Washington
+Brinnon,98320,Jefferson,Washington
+Chimacum,98325,Jefferson,Washington
+Forks,98331,Jefferson,Washington
+Port Hadlock,98339,Jefferson,Washington
+Nordland,98358,Jefferson,Washington
+Port Ludlow,98365,Jefferson,Washington
+Port Townsend,98368,Jefferson,Washington
+Quilcene,98376,Jefferson,Washington
+Auburn,98001,King,Washington
+Auburn,98002,King,Washington
+Federal Way,98003,King,Washington
+Bellevue,98004,King,Washington
+Bellevue,98005,King,Washington
+Bellevue,98006,King,Washington
+Bellevue,98007,King,Washington
+Bellevue,98008,King,Washington
+Bellevue,98009,King,Washington
+Black Diamond,98010,King,Washington
+Bothell,98011,King,Washington
+Burton,98013,King,Washington
+Carnation,98014,King,Washington
+Bellevue,98015,King,Washington
+Duvall,98019,King,Washington
+Enumclaw,98022,King,Washington
+Federal Way,98023,King,Washington
+Fall City,98024,King,Washington
+Hobart,98025,King,Washington
+Issaquah,98027,King,Washington
+Kenmore,98028,King,Washington
+Issaquah,98029,King,Washington
+Kent,98030,King,Washington
+Kent,98031,King,Washington
+Kent,98032,King,Washington
+Kirkland,98033,King,Washington
+Kirkland,98034,King,Washington
+Kent,98035,King,Washington
+Maple Valley,98038,King,Washington
+Medina,98039,King,Washington
+Mercer Island,98040,King,Washington
+Bothell,98041,King,Washington
+Kent,98042,King,Washington
+North Bend,98045,King,Washington
+Pacific,98047,King,Washington
+Preston,98050,King,Washington
+Ravensdale,98051,King,Washington
+Redmond,98052,King,Washington
+Redmond,98053,King,Washington
+Redondo,98054,King,Washington
+Renton,98055,King,Washington
+Renton,98056,King,Washington
+Renton,98057,King,Washington
+Renton,98058,King,Washington
+Renton,98059,King,Washington
+Seahurst,98062,King,Washington
+Federal Way,98063,King,Washington
+Kent,98064,King,Washington
+Snoqualmie,98065,King,Washington
+Vashon,98070,King,Washington
+Auburn,98071,King,Washington
+Woodinville,98072,King,Washington
+Redmond,98073,King,Washington
+Sammamish,98074,King,Washington
+Sammamish,98075,King,Washington
+Woodinville,98077,King,Washington
+Kirkland,98083,King,Washington
+Kent,98089,King,Washington
+Auburn,98092,King,Washington
+Federal Way,98093,King,Washington
+Seattle,98101,King,Washington
+Seattle,98102,King,Washington
+Seattle,98103,King,Washington
+Seattle,98104,King,Washington
+Seattle,98105,King,Washington
+Seattle,98106,King,Washington
+Seattle,98107,King,Washington
+Seattle,98108,King,Washington
+Seattle,98109,King,Washington
+Seattle,98111,King,Washington
+Seattle,98112,King,Washington
+Seattle,98113,King,Washington
+Seattle,98114,King,Washington
+Seattle,98115,King,Washington
+Seattle,98116,King,Washington
+Seattle,98117,King,Washington
+Seattle,98118,King,Washington
+Seattle,98119,King,Washington
+Seattle,98121,King,Washington
+Seattle,98122,King,Washington
+Seattle,98124,King,Washington
+Seattle,98125,King,Washington
+Seattle,98126,King,Washington
+Seattle,98127,King,Washington
+Seattle,98129,King,Washington
+Seattle,98131,King,Washington
+Seattle,98132,King,Washington
+Seattle,98133,King,Washington
+Seattle,98134,King,Washington
+Seattle,98136,King,Washington
+Seattle,98138,King,Washington
+Seattle,98139,King,Washington
+Seattle,98141,King,Washington
+Seattle,98144,King,Washington
+Seattle,98145,King,Washington
+Seattle,98146,King,Washington
+Seattle,98148,King,Washington
+Seattle,98151,King,Washington
+Seattle,98154,King,Washington
+Seattle,98155,King,Washington
+Seattle,98158,King,Washington
+Seattle,98160,King,Washington
+Seattle,98161,King,Washington
+Seattle,98164,King,Washington
+Seattle,98165,King,Washington
+Seattle,98166,King,Washington
+Seattle,98168,King,Washington
+Seattle,98170,King,Washington
+Seattle,98171,King,Washington
+Seattle,98174,King,Washington
+Seattle,98175,King,Washington
+Seattle,98177,King,Washington
+Seattle,98178,King,Washington
+Seattle,98181,King,Washington
+Seattle,98184,King,Washington
+Seattle,98185,King,Washington
+Seattle,98188,King,Washington
+Seattle,98190,King,Washington
+Seattle,98191,King,Washington
+Seattle,98194,King,Washington
+Seattle,98195,King,Washington
+Seattle,98198,King,Washington
+Seattle,98199,King,Washington
+Baring,98224,King,Washington
+Skykomish,98288,King,Washington
+Rollingbay,98061,Kitsap,Washington
+Bainbridge Island,98110,Kitsap,Washington
+Bremerton,98310,Kitsap,Washington
+Bremerton,98311,Kitsap,Washington
+Bremerton,98312,Kitsap,Washington
+Bremerton,98314,Kitsap,Washington
+Silverdale,98315,Kitsap,Washington
+Burley,98322,Kitsap,Washington
+Bremerton,98337,Kitsap,Washington
+Hansville,98340,Kitsap,Washington
+Indianola,98342,Kitsap,Washington
+Keyport,98345,Kitsap,Washington
+Kingston,98346,Kitsap,Washington
+Manchester,98353,Kitsap,Washington
+Olalla,98359,Kitsap,Washington
+Port Gamble,98364,Kitsap,Washington
+Port Orchard,98366,Kitsap,Washington
+Port Orchard,98367,Kitsap,Washington
+Poulsbo,98370,Kitsap,Washington
+Retsil,98378,Kitsap,Washington
+Seabeck,98380,Kitsap,Washington
+Silverdale,98383,Kitsap,Washington
+South Colby,98384,Kitsap,Washington
+Southworth,98386,Kitsap,Washington
+Suquamish,98392,Kitsap,Washington
+Tracyton,98393,Kitsap,Washington
+Snoqualmie Pass,98068,Kittitas,Washington
+Cle Elum,98922,Kittitas,Washington
+Easton,98925,Kittitas,Washington
+Ellensburg,98926,Kittitas,Washington
+Kittitas,98934,Kittitas,Washington
+Ronald,98940,Kittitas,Washington
+Roslyn,98941,Kittitas,Washington
+South Cle Elum,98943,Kittitas,Washington
+Thorp,98946,Kittitas,Washington
+Vantage,98950,Kittitas,Washington
+Appleton,98602,Klickitat,Washington
+Bingen,98605,Klickitat,Washington
+Centerville,98613,Klickitat,Washington
+Dallesport,98617,Klickitat,Washington
+Glenwood,98619,Klickitat,Washington
+Goldendale,98620,Klickitat,Washington
+Husum,98623,Klickitat,Washington
+Klickitat,98628,Klickitat,Washington
+Lyle,98635,Klickitat,Washington
+Trout Lake,98650,Klickitat,Washington
+Wahkiacus,98670,Klickitat,Washington
+White Salmon,98672,Klickitat,Washington
+Wishram,98673,Klickitat,Washington
+Bickleton,99322,Klickitat,Washington
+Roosevelt,99356,Klickitat,Washington
+Glenoma,98336,Lewis,Washington
+Mineral,98355,Lewis,Washington
+Morton,98356,Lewis,Washington
+Packwood,98361,Lewis,Washington
+Randle,98377,Lewis,Washington
+Paradise Inn,98398,Lewis,Washington
+Adna,98522,Lewis,Washington
+Centralia,98531,Lewis,Washington
+Chehalis,98532,Lewis,Washington
+Cinebar,98533,Lewis,Washington
+Curtis,98538,Lewis,Washington
+Doty,98539,Lewis,Washington
+Ethel,98542,Lewis,Washington
+Galvin,98544,Lewis,Washington
+Mossyrock,98564,Lewis,Washington
+Napavine,98565,Lewis,Washington
+Onalaska,98570,Lewis,Washington
+Pe Ell,98572,Lewis,Washington
+Salkum,98582,Lewis,Washington
+Silver Creek,98585,Lewis,Washington
+Toledo,98591,Lewis,Washington
+Vader,98593,Lewis,Washington
+Winlock,98596,Lewis,Washington
+Edwall,99008,Lincoln,Washington
+Reardan,99029,Lincoln,Washington
+Sprague,99032,Lincoln,Washington
+Almira,99103,Lincoln,Washington
+Creston,99117,Lincoln,Washington
+Davenport,99122,Lincoln,Washington
+Harrington,99134,Lincoln,Washington
+Lamona,99144,Lincoln,Washington
+Lincoln,99147,Lincoln,Washington
+Mohler,99154,Lincoln,Washington
+Odessa,99159,Lincoln,Washington
+Wilbur,99185,Lincoln,Washington
+Allyn,98524,Mason,Washington
+Belfair,98528,Mason,Washington
+Grapeview,98546,Mason,Washington
+Hoodsport,98548,Mason,Washington
+Lilliwaup,98555,Mason,Washington
+Matlock,98560,Mason,Washington
+Shelton,98584,Mason,Washington
+Tahuya,98588,Mason,Washington
+Union,98592,Mason,Washington
+Brewster,98812,Okanogan,Washington
+Carlton,98814,Okanogan,Washington
+Conconully,98819,Okanogan,Washington
+Loomis,98827,Okanogan,Washington
+Malott,98829,Okanogan,Washington
+Mazama,98833,Okanogan,Washington
+Methow,98834,Okanogan,Washington
+Okanogan,98840,Okanogan,Washington
+Omak,98841,Okanogan,Washington
+Oroville,98844,Okanogan,Washington
+Pateros,98846,Okanogan,Washington
+Riverside,98849,Okanogan,Washington
+Tonasket,98855,Okanogan,Washington
+Twisp,98856,Okanogan,Washington
+Wauconda,98859,Okanogan,Washington
+Winthrop,98862,Okanogan,Washington
+Coulee Dam,99116,Okanogan,Washington
+Elmer City,99124,Okanogan,Washington
+Nespelem,99155,Okanogan,Washington
+Bay Center,98527,Pacific,Washington
+Grayland,98547,Pacific,Washington
+Lebam,98554,Pacific,Washington
+Menlo,98561,Pacific,Washington
+Raymond,98577,Pacific,Washington
+South Bend,98586,Pacific,Washington
+Tokeland,98590,Pacific,Washington
+Chinook,98614,Pacific,Washington
+Ilwaco,98624,Pacific,Washington
+Long Beach,98631,Pacific,Washington
+Nahcotta,98637,Pacific,Washington
+Naselle,98638,Pacific,Washington
+Ocean Park,98640,Pacific,Washington
+Oysterville,98641,Pacific,Washington
+Seaview,98644,Pacific,Washington
+Cusick,99119,Pend Oreille,Washington
+Ione,99139,Pend Oreille,Washington
+Metaline,99152,Pend Oreille,Washington
+Metaline Falls,99153,Pend Oreille,Washington
+Newport,99156,Pend Oreille,Washington
+Usk,99180,Pend Oreille,Washington
+Anderson Island,98303,Pierce,Washington
+Ashford,98304,Pierce,Washington
+Buckley,98321,Pierce,Washington
+Carbonado,98323,Pierce,Washington
+Dupont,98327,Pierce,Washington
+Eatonville,98328,Pierce,Washington
+Gig Harbor,98329,Pierce,Washington
+Elbe,98330,Pierce,Washington
+Gig Harbor,98332,Pierce,Washington
+Fox Island,98333,Pierce,Washington
+Gig Harbor,98335,Pierce,Washington
+Graham,98338,Pierce,Washington
+Kapowsin,98344,Pierce,Washington
+Lakebay,98349,Pierce,Washington
+Longbranch,98351,Pierce,Washington
+Sumner,98352,Pierce,Washington
+Milton,98354,Pierce,Washington
+Orting,98360,Pierce,Washington
+Puyallup,98371,Pierce,Washington
+Puyallup,98372,Pierce,Washington
+Puyallup,98373,Pierce,Washington
+Puyallup,98374,Pierce,Washington
+Puyallup,98375,Pierce,Washington
+South Prairie,98385,Pierce,Washington
+Spanaway,98387,Pierce,Washington
+Steilacoom,98388,Pierce,Washington
+Sumner,98390,Pierce,Washington
+Bonney Lake,98391,Pierce,Washington
+Vaughn,98394,Pierce,Washington
+Wauna,98395,Pierce,Washington
+Wilkeson,98396,Pierce,Washington
+Longmire,98397,Pierce,Washington
+Tacoma,98401,Pierce,Washington
+Tacoma,98402,Pierce,Washington
+Tacoma,98403,Pierce,Washington
+Tacoma,98404,Pierce,Washington
+Tacoma,98405,Pierce,Washington
+Tacoma,98406,Pierce,Washington
+Tacoma,98407,Pierce,Washington
+Tacoma,98408,Pierce,Washington
+Tacoma,98409,Pierce,Washington
+Tacoma,98411,Pierce,Washington
+Tacoma,98412,Pierce,Washington
+Tacoma,98413,Pierce,Washington
+Tacoma,98415,Pierce,Washington
+Tacoma,98416,Pierce,Washington
+Tacoma,98417,Pierce,Washington
+Tacoma,98418,Pierce,Washington
+Tacoma,98419,Pierce,Washington
+Tacoma,98421,Pierce,Washington
+Tacoma,98422,Pierce,Washington
+Tacoma,98424,Pierce,Washington
+Camp Murray,98430,Pierce,Washington
+Tacoma,98431,Pierce,Washington
+Tacoma,98433,Pierce,Washington
+Mcchord Afb,98438,Pierce,Washington
+Lakewood,98439,Pierce,Washington
+Tacoma,98442,Pierce,Washington
+Tacoma,98443,Pierce,Washington
+Tacoma,98444,Pierce,Washington
+Tacoma,98445,Pierce,Washington
+Tacoma,98446,Pierce,Washington
+Tacoma,98447,Pierce,Washington
+Tacoma,98448,Pierce,Washington
+Tacoma,98450,Pierce,Washington
+Tacoma,98455,Pierce,Washington
+Tacoma,98460,Pierce,Washington
+Tacoma,98464,Pierce,Washington
+Tacoma,98465,Pierce,Washington
+Tacoma,98466,Pierce,Washington
+University Place,98467,Pierce,Washington
+Tacoma,98471,Pierce,Washington
+Tacoma,98477,Pierce,Washington
+Tacoma,98481,Pierce,Washington
+Tacoma,98490,Pierce,Washington
+Tacoma,98492,Pierce,Washington
+Tacoma,98493,Pierce,Washington
+Lakewood,98496,Pierce,Washington
+Lakewood,98497,Pierce,Washington
+Lakewood,98498,Pierce,Washington
+Lakewood,98499,Pierce,Washington
+Mckenna,98558,Pierce,Washington
+Roy,98580,Pierce,Washington
+Blakely Island,98222,San Juan,Washington
+Deer Harbor,98243,San Juan,Washington
+Eastsound,98245,San Juan,Washington
