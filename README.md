@@ -59,15 +59,21 @@ The project also use `City Names.csv` dataset webscaped from the [Zipcode websit
 
 ## Data Preparation
 
-The data was checked for missing values, duplicates and placeholders of missing data and the rows that contained missing values and duplicates were dropped. New columns were created from transforming existing columns and columns that were not in their appropriate data type were cleaned and converted into their appropriate data type. 
-
-In this section, the two data sets were merged and all the unrelevant columns were dropped. The remainig columns underwend data cleaning to prepare them for analysis, the various data cleaning methods that are to be used will be;
- <p> &#9672 Converting columns into the requires data type </p>
+In this section, the two data sets were merged and all the un-relevant columns were dropped. The remaining columns underwent data cleaning to prepare them for analysis, this are the various data cleaning methods that were used;
+<p> &#9672 Converting columns into the requires data type </p>
 <p> &#9672  Checking and removing duplicates</p> 
- <p> &#9672 Dealing with missing data and placeholders of missing data by dropping the rows </p>
- <p> &#9672 Removing outliers </p>
+<p> &#9672 Dealing with missing data and placeholders of missing data by dropping the rows </p>
+<p> &#9672 Removing outliers </p>
 
 ## Data Analysis
+EDA was carried on the cleaned data, as seen in this [notebook](https://github.com/sha-ddie/Phase-2-Project/blob/main/student.ipynb), and various patterns and relationships between dependent and independent variables were discovered. 
+![categories](Images/categories.png)
+This shows how the value of the dependent variable changes as the value of any of the independent variables (`waterfront`, `view`, `condition` and `grade`) above change. Also it depicts a relatiosnhsip between the variables and the dependent varianble price.
+![location](Images/city.png)
+This graph shows how prices of house changes in different cities with **Medina, Merce Island** and **Bellevue** , being generally more expensive than those frome the other locations/cities. This can be due to the fact that, the above cities are all close to Seattle the city capital and they posses waterfront properties, and scenic views that as shown above fetch high market prices for houses.
+
+The heatmap below shows how the numeric variables are correlated with price.
+![heatmap](Image/heatmap.png)
 
 
 ## Conclusions
