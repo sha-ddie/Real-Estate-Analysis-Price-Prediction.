@@ -82,12 +82,12 @@ The model created is statistically significant at an alpha of 0.05. All the mode
 
 * **The house price of a house with `3` bedhrooms, `2` bathrooms ,`1,794 sqft ` square feet of living space, `2 ` floors,`233 sqft ` square feet of space of basement and `Average` grade is estimated to be: `$444,860` USD.**
 
-* As we increase number of bedrooms by one from 3 , house price drops by `$18,564` USD.
-* As we increase number of bathrooms by one from 2 , house price drops by `$37,731` USD.
-* As we increase living space by 1 square foot from 1,974 , house price increase by `$101` USD.
-* As we increase number of floors by one from 2 , house price increases by `$25,548` USD.
-* As we increase basement space by 1 square foot from 233 sqft , house price increase by `$90` USD.
-* As the house grade rises form Average by one level upwards, house price increase by `$8,7890` USD.
+* As we increase number of bedrooms by one from 3 , house price drops by `$18,564`.
+* As we increase number of bathrooms by one from 2 , house price drops by `$37,731`.
+* As we increase living space by 1 square foot from 1,974 , house price increase by `$101`.
+* As we increase number of floors by one from 2 , house price increases by `$25,548`.
+* As we increase basement space by 1 square foot from 233 sqft , house price increase by `$90`.
+* As the house grade rises form Average by one level upwards, house price increase by `$8,7890`.
 
 * The price of a house on a `waterfront` is `$104,200` higher as compared with one that is not.
 * The price of a house with an `Average` view is `$88,000` higher as compared without a view.
