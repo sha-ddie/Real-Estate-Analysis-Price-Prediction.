@@ -78,7 +78,6 @@ The heatmap below shows how the numeric variables are correlated with price.
 The following variables were used in modeling because of their relationship with price; `bedrooms` , `bathrooms` , `sqft_living` , `floors` , `sqft_basement` and `grade_num`. The following categorical variables were added to the model, to increase the models varibility; `waterfront` , `view` and `condition`.
 
 ## Conclusions
-***
 Some of the house top selling points are:
 * `waterfront` : Houses on a water front, that is houses around lakes, rivers and canals, fetches a high market prices than those that don't.
 * `view` : Houses with an Excellent view, Mountains, Cascades, ake / river / creek, and others, have higher prices.
@@ -126,4 +125,4 @@ From our mdel we also found that;
 ## Resources.
 1: For the complete notebook analysis, here is the [Notebook](https://github.com/sha-ddie/Phase-2-Project/blob/main/student.ipynb)
 
-2: The Presentation slides are found [here](https://www.canva.com/design/DAFoI_Nmu3c/kbfegYg_PTdFzmdDfQ81Dg/view?utm_content=DAFoI_Nmu3c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#21)
+2: The Presentation slides are found [here](https://www.canva.com/design/DAFoI_Nmu3c/kbfegYg_PTdFzmdDfQ81Dg/view?utm_content=DAFoI_Nmu3c&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink#1)
